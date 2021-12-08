@@ -1,6 +1,8 @@
 # Flask app forked from https://github.com/jhabboubi/flask_simple_url_shortener and pushed to Max Conroy's repo via Git
 
-# Added "Feature 0.2 radio buttons"
+# Added "Feature1" branch version 0.2 radio buttons
+
+# Finished Feature1 branch, testing passed and merging with main
 
 """
     importing flask
